@@ -1,2 +1,2 @@
-# hacksai_rossakkreditazia_case
-Rossakkreditazia case on hacksai hackaton solution
+# ИИ на страже качества российских товаров
+
